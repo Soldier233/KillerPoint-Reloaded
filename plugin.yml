@@ -1,0 +1,7 @@
+name: KillerPoint
+main: me.zhanshi123.KillerPoint.KillerPoint
+version: 0.1
+
+commands:
+  kp:
+    description: none

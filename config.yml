@@ -1,0 +1,6 @@
+General:
+  worlds:
+    - 'world'
+  #启用杀气值计算的世界
+Messages:
+  prefix: '&b&l杀气值 &7>>> &r'
